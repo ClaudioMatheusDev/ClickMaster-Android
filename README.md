@@ -38,4 +38,4 @@ A aplicação permite que o usuário interaja com um contador, personalize sua e
 3. Compile e rode em um emulador ou dispositivo físico com Android 7.0 ou superior.
 
 ---
-Desenvolvido por [Seu Nome] como parte dos estudos de Desenvolvimento Mobile. 🚀
+Desenvolvido por ClaudioMatheusDev como parte dos estudos de Desenvolvimento Mobile. 🚀
