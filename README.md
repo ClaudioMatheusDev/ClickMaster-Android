@@ -24,10 +24,16 @@ A aplicação permite que o usuário interaja com um contador, personalize sua e
   - Gerenciamento de Constraints
 
 ## 📸 Demonstração
-*(Dica: Adicione aqui um GIF ou print do seu app rodando!)*
+<img width="599" height="995" alt="image" src="https://github.com/user-attachments/assets/c371c7bd-2f38-471d-943a-7012459205a6" />
+
+<img width="598" height="997" alt="image" src="https://github.com/user-attachments/assets/562249fc-58bb-4a6a-9d31-bbd3ba8a1878" />
+
+<img width="597" height="998" alt="image" src="https://github.com/user-attachments/assets/0666c4ed-bb1a-4246-bc89-e2d70682f50e" />
+
+
 
 ## 🚀 Como testar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repo.git`
+1. Clone este repositório: `git clone https://github.com/seu-usuario/ClickMaster-Android.git`
 2. Abra o projeto no **Android Studio**.
 3. Compile e rode em um emulador ou dispositivo físico com Android 7.0 ou superior.
 
