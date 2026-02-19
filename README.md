@@ -33,7 +33,7 @@ A aplicação permite que o usuário interaja com um contador, personalize sua e
 
 
 ## 🚀 Como testar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/ClickMaster-Android.git`
+1. Clone este repositório: `git clone https://github.com/ClaudioMatheusDev/ClickMaster-Android.git`
 2. Abra o projeto no **Android Studio**.
 3. Compile e rode em um emulador ou dispositivo físico com Android 7.0 ou superior.
 
